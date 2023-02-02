@@ -1,19 +1,12 @@
 # LOGGING LIBRARIES
 import logging
-# logging.basicConfig(format="%(asctime)s %(message)s")
-# logging.getLogger().setLevel(logging.INFO)
-
 logging.basicConfig(filename='03 - Web applications (Microservices)/0402 - APItest/0402 - log.log',
                     filemode='w',
                     format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                     datefmt='%H:%M:%S',
                     level=logging.DEBUG)
-
 logging.info("Running Urban Planning")
-
 logger = logging.getLogger('urbanGUI')
-
-
 #MYSQL LIBRARY and CONNECTION
 import mysql.connector as conn
 from mysql.connector import Error
