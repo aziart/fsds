@@ -7,7 +7,11 @@ logging.basicConfig(filename='03 - Web applications (Microservices)/0402 - APIte
                     level=logging.DEBUG)
 logging.info("Running Urban Planning")
 logger = logging.getLogger('urbanGUI')
+<<<<<<< HEAD
 # MYSQL LIBRARY and CONNECTION
+=======
+#MYSQL LIBRARY and CONNECTION
+>>>>>>> 5c4eb6d81c348047914205178cce73abe8f18a0b
 import mysql.connector as conn
 from mysql.connector import Error
 # PANDAS LIBRARY
