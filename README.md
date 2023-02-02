@@ -1,7 +1,7 @@
 # FULL STACK DATA SCIENCE
 
 **Chapters**  
-• [**01 - Python and Databases**](https://github.com/aziart/fsds/tree/main/01%20-%20Python%20and%20Databases)  
+:o: [**01 - Python and Databases**](https://github.com/aziart/fsds/tree/main/01%20-%20Python%20and%20Databases)  
 > • [0123 - OOP Basics](https://github.com/aziart/fsds/blob/main/01%20-%20Python%20and%20Databases/0123%20-%20OOP%20Basics.ipynb)  
 > • [0129 - OOP Inheritance and Encapsulation](https://github.com/aziart/fsds/blob/main/01%20-%20Python%20and%20Databases/0129%20-%20OOP%20Inheritance%20and%20Encapsulation.ipynb)  
 > • [0130 - OOP Polymorphism, Class Variables and Static Methods](https://github.com/aziart/fsds/blob/main/01%20-%20Python%20and%20Databases/0130%20-%20OOP%20Polymorphism%2C%20Class%20Variables%20and%20Static%20Methods.ipynb)  
@@ -12,7 +12,7 @@
 
 
 
-• [**02 - Pandas, NumPy, Visualization**](https://github.com/aziart/fsds/tree/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization)  
+:o: [**02 - Pandas, NumPy, Visualization**](https://github.com/aziart/fsds/tree/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization)  
 > • [0226 - Pandas 01](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0226%20-%20Pandas%2001.ipynb)  
 > • [0227 - Pandas 02](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0227%20-%20Pandas%2002.ipynb)  
 > • [0305 - Pandas 03](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0305%20-%20Pandas%2003.ipynb)  
@@ -23,3 +23,6 @@
 > • [0326 - Visuals 01](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0326%20-%20Visuals%2001.ipynb) - in order to see plotly visuals use http://nbviewer.jupyter.org/ Link: [**Visuals 01**](https://nbviewer.org/github/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0326%20-%20Visuals%2001.ipynb)  
 > • [0327 - Visuals 02](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0327%20-%20Visuals%2002.ipynb) - in order to see plotly visuals use http://nbviewer.jupyter.org/ Link: [**Visuals 02**](https://nbviewer.org/github/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0327%20-%20Visuals%2002.ipynb)  
 
+
+:o: [**03 - Web applications (Microservices)**](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices))  
+> • [0402 - Intro API's with Flask](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0402%20-%20APItest)  
