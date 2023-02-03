@@ -1,0 +1,40 @@
+06:02:19,350 root INFO Running Urban Planning
+06:02:21,19 root INFO CAR DATA SAMPLE: 
+   vhigh vhigh.1  2 2.1  small   low  unacc
+0  vhigh   vhigh  2   2  small   med  unacc
+1  vhigh   vhigh  2   2  small  high  unacc
+2  vhigh   vhigh  2   2    med   low  unacc
+3  vhigh   vhigh  2   2    med   med  unacc
+4  vhigh   vhigh  2   2    med  high  unacc
+06:02:21,19 root INFO STEP 0: ESTABLISHING CONNECTION
+06:02:21,84 mysql.connector.connection DEBUG # _do_auth(): user: root
+06:02:21,84 mysql.connector.connection DEBUG # _do_auth(): self._auth_plugin: 
+06:02:21,84 mysql.connector.connection DEBUG # _do_auth(): user: root
+06:02:21,84 mysql.connector.connection DEBUG # _do_auth(): password: 12345678
+06:02:21,84 mysql.connector.authentication INFO package: mysql.connector.plugins
+06:02:21,84 mysql.connector.authentication INFO plugin_name: caching_sha2_password
+06:02:21,87 mysql.connector.authentication INFO AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+06:02:21,87 mysql.connector.connection DEBUG new_auth_plugin: caching_sha2_password
+06:02:21,91 root INFO STEP 1: AVAILABLE DATABASES
+06:02:21,96 root INFO AVAILABLE DATABASES ARE: 
+[('CARDATASET',), ('information_schema',), ('mysql',), ('performance_schema',), ('sys',)]
+06:02:21,96 root INFO STEP 2: CREATING CARDATASET DATABASE
+06:02:21,126 root INFO AVAILABLE DATABASES ARE: 
+[('CARDATASET',), ('information_schema',), ('mysql',), ('performance_schema',), ('sys',)]
+06:02:21,126 root INFO STEP 3: SELECTING DATABASE
+06:02:21,127 root INFO You're connected to database: ('cardataset',)
+06:02:21,128 root INFO STEP 4: Creating table....
+06:02:21,142 root INFO Table is created....
+06:02:22,774 root INFO INSERTED DATASET SAMPLE
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '2', 'small', 'med', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '2', 'small', 'high', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '2', 'med', 'low', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '2', 'med', 'med', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '2', 'med', 'high', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '2', 'big', 'low', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '2', 'big', 'med', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '2', 'big', 'high', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '4', 'small', 'low', 'unacc')
+06:02:22,774 root INFO ('vhigh', 'vhigh', '2', '4', 'small', 'med', 'unacc')
+06:02:22,774 root INFO STEP 5: CLOSING CONNECTION
+06:02:22,775 root INFO DATA SUCCESSULLY INSERTED

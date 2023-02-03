@@ -1,6 +1,6 @@
 # LOGGING LIBRARIES
 import logging
-logging.basicConfig(filename='03 - Web applications (Microservices)/0402 - APItest/0402 - log.log',
+logging.basicConfig(filename='03 - Web applications (Microservices)/0402 - APItest/0402 - task.log',
                     filemode='w',
                     format='%(asctime)s,%(msecs)d %(name)s %(levelname)s %(message)s',
                     datefmt='%H:%M:%S',
