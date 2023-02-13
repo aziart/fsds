@@ -32,5 +32,5 @@
 
 :small_orange_diamond: [0403 - Flask End-to-end Project](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project)  
 > > • [app.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/app.py)  
-> > • [templates: html files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/templates) 
+> > • [templates: html files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/templates)  
 > > • [static: css files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/static)  
