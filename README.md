@@ -24,13 +24,13 @@
 > • [0327 - Visuals 02](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0327%20-%20Visuals%2002.ipynb) - in order to see plotly visuals use http://nbviewer.jupyter.org/ Link: [**Visuals 02**](https://nbviewer.org/github/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0327%20-%20Visuals%2002.ipynb)  
 
 
-:o: [**03 - Web applications (Microservices)**](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices))  
+> :o: [**03 - Web applications (Microservices)**](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices))  
 :small_orange_diamond: [0402 - Intro API's with Flask](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0402%20-%20APItest)  
-> • [0402 - Flask Intro.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0402%20-%20APItest/0402%20-%20Flask%20Intro.py)  
-> • [0402 - task.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0402%20-%20APItest/0402%20-%20task.py)  
-> • [0402 - task.log](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0402%20-%20APItest/0402%20-%20task.log)  
+> > • [0402 - Flask Intro.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0402%20-%20APItest/0402%20-%20Flask%20Intro.py)  
+> > • [0402 - task.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0402%20-%20APItest/0402%20-%20task.py)  
+> > • [0402 - task.log](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0402%20-%20APItest/0402%20-%20task.log)  
 
-:small_orange_diamond: [0403 - Flask End-to-end Project](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project)  
-> • [app.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/app.py)  
-> • [templates: html files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/templates)  
-> • [static: css files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/static)  
+> :small_orange_diamond: [0403 - Flask End-to-end Project](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project)  
+> > • [app.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/app.py)  
+> > • [templates: html files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/templates)  
+> > • [static: css files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/static)  
