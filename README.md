@@ -32,5 +32,9 @@
 
 > :small_orange_diamond: [0403 - Flask End-to-end Project](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project)  
 > > • [app.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/app.py)  
-> > • [templates: html files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/templates)  
-> > • [static: css files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/static)  
+> > :file_folder: [templates: html files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/templates)  
+> > :file_folder: [static: css files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/static)  
+> > :file_folder: [database-app](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app)  
+> > > • [gtwy_service.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app/gtwy_service.py)  
+> > > • [mysql_service.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app/mysql_service.py)  
+> > > • [mngdb_service.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app/mngdb_service.py)  
