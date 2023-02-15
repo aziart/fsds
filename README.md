@@ -22,7 +22,7 @@
 > :small_blue_diamond: [0312 - Numpy 01](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0312%2002%20-%20Numpy%2001.ipynb)  
 > :small_blue_diamond: [0313 - Numpy 02](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0313%20-%20Numpy%2002.ipynb)  
 > :small_blue_diamond: [0326 - Visuals 01](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0326%20-%20Visuals%2001.ipynb) - in order to see plotly visuals use http://nbviewer.jupyter.org/ Link: [**Visuals 01 :bar_chart:**](https://nbviewer.org/github/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0326%20-%20Visuals%2001.ipynb)  
-> :small_blue_diamond: [0327 - Visuals 02](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0327%20-%20Visuals%2002.ipynb) - in order to see plotly visuals use http://nbviewer.jupyter.org/ Link: [**Visuals 02 :bar_chart**](https://nbviewer.org/github/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0327%20-%20Visuals%2002.ipynb)  
+> :small_blue_diamond: [0327 - Visuals 02](https://github.com/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0327%20-%20Visuals%2002.ipynb) - in order to see plotly visuals use http://nbviewer.jupyter.org/ Link: [**Visuals 02 :bar_chart:**](https://nbviewer.org/github/aziart/fsds/blob/main/02%20-%20Pandas%2C%20NumPy%2C%20Visualization/0327%20-%20Visuals%2002.ipynb)  
 
 
 :o: [**03 - Web applications (Microservices)**](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices))  
