@@ -33,7 +33,7 @@ def index():
             commentboxes = prod_html.find_all('div', {'class': "_16PBlm"})
 
             filename = searchString + ".csv"
-            fw = open(filename, "w")
+            fw = open("03 - Web applications (Microservices)/0409 - Flask Review and Scraper/Review Flask/" + filename, "w")
             headers = "Product, Customer Name, Rating, Heading, Comment \n"
             fw.write(headers)
             reviews = []
@@ -79,5 +79,5 @@ def index():
         return render_template('index.html')
 
 if __name__ == "__main__":
-    #app.run(host='127.0.0.1', port=8001, debug=True)
-	app.run(debug=True)
+    app.run(host='127.0.0.1', port=8001, debug=True)
+	# app.run(debug=True)
