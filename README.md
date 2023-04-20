@@ -35,7 +35,7 @@
 > > :small_red_triangle: [app.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/app.py)  
 > > :file_folder: [templates: html files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/templates)  
 > > :file_folder: [static: css files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/static)  
-> > :file_folder: [database-app](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app)  
+> > :open_file_folder: [database-app](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app)  
 > > > :small_red_triangle: [gtwy_service.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app/gtwy_service.py)  
 > > > :small_red_triangle: [mysql_service.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app/mysql_service.py)  
 > > > :small_red_triangle: [mngdb_service.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0403%20-%20Flask%20End-to-end%20Project/database-app/mngdb_service.py)  
@@ -46,3 +46,10 @@
 > > :page_facing_up: [requirements.txt](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0409%20-%20Flask%20Review%20and%20Scraper/requirements.txt)  
 > > :file_folder: [templates: html files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0409%20-%20Flask%20Review%20and%20Scraper/templates)  
 > > :file_folder: [static: css files](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0409%20-%20Flask%20Review%20and%20Scraper/static)  
+
+> :small_orange_diamond: [0410 - Image Scraper](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper)  
+> > :small_red_triangle: [scraper.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/scraper.py)  
+> > :page_facing_up: [requirements.txt](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/requirements.txt)  
+> > :green_book: [README.md](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/README.md)  
+> > :file_folder: [images](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/images)
+
