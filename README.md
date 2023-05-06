@@ -1,4 +1,4 @@
-# FULL STACK DATA SCIENCE
+# fsds
 
 **Contents**  
 •••••••••••••  
