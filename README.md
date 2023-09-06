@@ -51,5 +51,11 @@
 > > :small_red_triangle: [scraper.py](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/scraper.py)  
 > > :page_facing_up: [requirements.txt](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/requirements.txt)  
 > > :green_book: [README.md](https://github.com/aziart/fsds/blob/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/README.md)  
-> > :file_folder: [images](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/images)
+> > :file_folder: [images](https://github.com/aziart/fsds/tree/main/03%20-%20Web%20applications%20(Microservices)/0410%20-%20Image%20Scraper/images)  
+
+
+
+:o: [**05 - Machine Learning**](https://github.com/aziart/fsds/tree/main/05%20-%20Machine%20Learning)  
+> :small_blue_diamond: [0501 - EDA (car price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0501%20-%20EDA%20(car%20price).ipynb)  
+> :small_blue_diamond: []()   
 
