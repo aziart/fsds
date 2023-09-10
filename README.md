@@ -58,5 +58,5 @@
 :o: [**05 - Machine Learning**](https://github.com/aziart/fsds/tree/main/05%20-%20Machine%20Learning)  
 > :small_blue_diamond: [0501 - EDA (car price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0501%20-%20EDA%20(car%20price).ipynb)  
 > :small_blue_diamond: [0507_01 - Feature Engineering (house price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0507_01%20-%20Feature%20Engineering%20(house%20price).ipynb)   
-> :small_blue_diamond: [0507_02 - Feature Engineering, EDA (flight price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0507_02%20-%20temp.ipynb)   
+> :small_blue_diamond: [0507_02 - Feature Engineering, EDA (flight price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0507_02%20-%20Feature%20Engineering%20(flight%20price).ipynb)   
 
