@@ -57,6 +57,11 @@
 
 :o: [**05 - Machine Learning**](https://github.com/aziart/fsds/tree/main/05%20-%20Machine%20Learning)  
 > :small_blue_diamond: [0501 - EDA (car price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0501%20-%20EDA%20(car%20price).ipynb)  
-> :small_blue_diamond: [0507_01 - Feature Engineering (house price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0507_01%20-%20Feature%20Engineering%20(house%20price).ipynb)   
-> :small_blue_diamond: [0507_02 - Feature Engineering, EDA (flight price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0507_02%20-%20Feature%20Engineering%20(flight%20price).ipynb)   
+> :small_blue_diamond: [0507_01 - Feature Engineering (house price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0507_01%20-%20Feature%20Engineering%20(house%20price).ipynb)  
+> :small_blue_diamond: [0507_02 - Feature Engineering, EDA (flight price)](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0507_02%20-%20Feature%20Engineering%20(flight%20price).ipynb)  
+> :pencil2: [0508 - Linear Regression - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0508%20-%20Linear%20Regression.pdf)  
+> :pencil2: [0514 - Ridge, Lasso, Elastic Net, Logistic regressions - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0514%20-%20Ridge%2C%20Lasso%2C%20Elastic%20Net%2C%20Logistic%20regressions.pdf)  
+> :small_blue_diamond: [0515 - Regression](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0515%20-%20Regression.ipynb)  
+> :pencil2: [0515 - Naive Bayes, KNN - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0515%20-%20Naive%20Bayes%2C%20KNN.pdf)  
+> :pencil2: [0521 - SVM.pdf - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521%20-%20SVM.pdf)
 
