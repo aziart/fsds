@@ -55,7 +55,11 @@
 
 
 
-:o: [**04 - Statistics (unfinished)**](https://github.com/aziart/fsds/tree/main/04%20-%20Statistics)    
+:o: [**04 - Statistics (unfinished)**](https://github.com/aziart/fsds/tree/main/04%20-%20Statistics)  
+> :pencil2: [01 - Visualizing Data](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/01%20-%20Visualizing%20Data.pdf)  
+> :pencil2: [02 - Analyzing Data](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/02%20-%20Analyzing%20Data.pdf)  
+> :pencil2: [03 - Data Distributions](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/03%20-%20Data%20Distributions.pdf)  
+> :pencil2: [04 - Probability](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/04%20-%20Probability.pdf)  
 
 
 
