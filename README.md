@@ -60,6 +60,7 @@
 > :pencil2: [02 - Analyzing Data](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/02%20-%20Analyzing%20Data.pdf)  
 > :pencil2: [03 - Data Distributions](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/03%20-%20Data%20Distributions.pdf)  
 > :pencil2: [04 - Probability](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/04%20-%20Probability.pdf)  
+> :pencil2: [05 - Discrete Random Variables](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/05%20-%20Discrete%20Random%20Variables.pdf)  
 
 
 
