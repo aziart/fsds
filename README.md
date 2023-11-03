@@ -55,7 +55,7 @@
 
 
 
-:o: [**04 - Statistics (unfinished)**](https://github.com/aziart/fsds/tree/main/04%20-%20Statistics)  
+:o: [**04 - Statistics**](https://github.com/aziart/fsds/tree/main/04%20-%20Statistics)  
 > :pencil2: [01 - Visualizing Data](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/01%20-%20Visualizing%20Data.pdf)  
 > :pencil2: [02 - Analyzing Data](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/02%20-%20Analyzing%20Data.pdf)  
 > :pencil2: [03 - Data Distributions](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/03%20-%20Data%20Distributions.pdf)  
@@ -63,6 +63,7 @@
 > :pencil2: [05 - Discrete Random Variables](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/05%20-%20Discrete%20Random%20Variables.pdf)  
 > :pencil2: [06 - Sampling](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/06%20-%20Sampling.pdf)  
 > :pencil2: [07 - Hypothesis Testing](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/07%20-%20Hypothesis%20Testing.pdf)  
+> :pencil2: [08 - Regression](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/08%20-%20Regression.pdf)  
 
 
 
