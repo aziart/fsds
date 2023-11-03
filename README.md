@@ -62,6 +62,7 @@
 > :pencil2: [04 - Probability](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/04%20-%20Probability.pdf)  
 > :pencil2: [05 - Discrete Random Variables](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/05%20-%20Discrete%20Random%20Variables.pdf)  
 > :pencil2: [06 - Sampling](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/06%20-%20Sampling.pdf)  
+> :pencil2: [07 - Hypothesis Testing](https://github.com/aziart/fsds/blob/main/04%20-%20Statistics/07%20-%20Hypothesis%20Testing.pdf)  
 
 
 
