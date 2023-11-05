@@ -77,6 +77,6 @@
 > :small_blue_diamond: [0515 - Regression](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0515%20-%20Regression.ipynb)  
 > :pencil2: [0515 - Naive Bayes, KNN - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0515%20-%20Naive%20Bayes%2C%20KNN.pdf)  
 > :pencil2: [0521 - SVM.pdf - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521%20-%20SVM.pdf)  
-> :pencil2: [0521.01 - Logistic Regression](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521.01%20-%20Logistic%20Regression.ipynb)  
-> :pencil2: [0521.02 - KNN](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521.02%20-%20KNN.ipynb)  
+> :small_blue_diamond: [0521.01 - Logistic Regression](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521.01%20-%20Logistic%20Regression.ipynb)  
+> :small_blue_diamond: [0521.02 - KNN](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521.02%20-%20KNN.ipynb)  
 
