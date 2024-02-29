@@ -77,8 +77,11 @@
 > :small_blue_diamond: [0515 - Regression](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0515%20-%20Regression.ipynb)  
 > :pencil2: [0515 - Naive Bayes, KNN - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0515%20-%20Naive%20Bayes%2C%20KNN.pdf)  
 > :pencil2: [0521 - SVM - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521%20-%20SVM.pdf)  
+> :small_blue_diamond: [0528 - SVM Kernels Implementation](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0528%20-%20SVM%20Kernels%20Implementation.ipynb)  
 > :small_blue_diamond: [0521.01 - Logistic Regression](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521.01%20-%20Logistic%20Regression.ipynb)  
 > :small_blue_diamond: [0521.02 - KNN](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0521.02%20-%20KNN.ipynb)  
 > :pencil2: [0522 - Decision Trees - notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0522%20-%20Decision%20Tree.pdf)  
 > :small_blue_diamond: [0522 - Decision Tree](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0522%20-%20Decision%20Tree.ipynb)  
+> :small_blue_diamond: [0528 - Regression Problem Pipeline practice](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0528%20-%20Regression%20Problem%20Pipeline%20practice.ipynb)  
+> :pencil2: [0528 - Random Forest and ROC-AUC notes](https://github.com/aziart/fsds/blob/main/05%20-%20Machine%20Learning/0528%20-%20Random%20Forest%20and%20ROC-AUC.pdf)  
 
